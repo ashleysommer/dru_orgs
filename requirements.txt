@@ -1,0 +1,9 @@
+need modules:
+entity_rdf
+rdfx
+semantic_map
+contrib/ctools
+contrib/devel
+contrib/entity
+contrib/pathauto
+contrib/token
